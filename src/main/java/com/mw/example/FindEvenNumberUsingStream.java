@@ -13,7 +13,7 @@ public class FindEvenNumberUsingStream {
                 .forEach(System.out::println);
 
         //more examples comes here
-
+        //we will see how to use other streams methods
 
     }
 }
