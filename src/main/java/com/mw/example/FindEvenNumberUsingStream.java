@@ -12,5 +12,8 @@ public class FindEvenNumberUsingStream {
                 .filter(number -> number % 2 == 0)
                 .forEach(System.out::println);
 
+        //more examples comes here
+
+
     }
 }
